@@ -4,8 +4,8 @@ body {
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
-  background: d9d9d9;
-  color: orange;
+  background: #d9d9d9;
+  color: black;
   font-family: 'Orbitron', sans-serif;
 }
 
@@ -84,9 +84,9 @@ iframe {
   padding: 3rem;
   font-size: 2.5rem;
   width: auto;
-  background: #ff0000;
-  color: #00ff00;
-  border: 15px outset #ffd700;
+  background: #8000ff;
+  color: #ffa500;
+  border: 15px outset #d3d3d3;
 }  
 
   .profile-image {
