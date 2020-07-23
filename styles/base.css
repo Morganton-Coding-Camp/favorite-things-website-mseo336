@@ -95,4 +95,19 @@ iframe {
   border-radius: 30%;
 }
   
+.favorite-sports {
+  background: #ffa500
+  color: black
+}
+
+.favorite-color {
+  background: #9370db
+  color: black
+}
+  
+.favorite-animal {
+  background: #00bfff
+  color: black
+}
+
     
