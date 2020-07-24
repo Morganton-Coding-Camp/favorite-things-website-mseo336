@@ -114,4 +114,10 @@ iframe {
   border: 10px solid black;
 }
 
-    
+.gif {
+  align: left;
+}
+
+.gif-2 {
+  align: center;
+}
