@@ -117,12 +117,14 @@ iframe {
 .gif-one {
   height: auto;
   align-content: left;
-  width: 30vh; 
+  width: 60vh; 
 }
 
 .gif-two {
   height: auto;
-  width: 30vh;
+  width: 60vh;
+  align-content: right;
+}
 
 .introduction {
   border: 10px solid black;
