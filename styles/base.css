@@ -114,7 +114,7 @@ iframe {
 }
 
 .gif-one {
-  height: auto;
+  height: 60vh;
   width: 60vh; 
 }
 
@@ -131,3 +131,33 @@ iframe {
 .introduction {
   border: 10px solid black;
 }
+
+.footer {
+  padding: 3rem;
+  text-align: center;
+}
+
+.btn {
+  padding: 5rem 2rem;
+  background: #ffc000;
+  color: purple;
+  font-size: 2rem;
+  border-radius: .25rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 2px solid black;
+  transition: all .5s ease;
+}
+
+.btn:hover {
+  border: 10px solid black;
+  border-radius: .1rem;
+  letter-spacing: 4px;
+}
+  
+  
+  
+  
+
+  
