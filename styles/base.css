@@ -115,9 +115,6 @@ iframe {
 }
 
 .gif {
-  align: left;
-}
-
-.gif-2 {
   align: center;
+  margin: auto;
 }
