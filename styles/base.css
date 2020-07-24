@@ -114,9 +114,9 @@ iframe {
   border: 10px solid black;
 }
 
-.gif {
+.gif-one {
   height: auto;
-  align-content: center;
+  align-content: left;
   width: 30%
 }
 
