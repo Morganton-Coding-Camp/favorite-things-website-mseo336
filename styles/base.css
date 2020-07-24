@@ -87,6 +87,7 @@ iframe {
   background: #8000ff;
   color: #ffa500;
   border: 15px outset #d3d3d3;
+  opacity: 0.5;
 }  
 
   .profile-image {
