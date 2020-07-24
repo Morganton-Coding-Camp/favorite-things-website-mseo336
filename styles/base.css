@@ -91,7 +91,7 @@ iframe {
 
   .profile-image {
   max-height: 30vh;
-  width: 50vh;
+  width: auto;
   border-radius: 30%;
 }
   
