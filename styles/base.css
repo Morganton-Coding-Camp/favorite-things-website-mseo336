@@ -118,3 +118,7 @@ iframe {
   align: center;
   margin: auto;
 }
+
+.introduction {
+  border: 10px solid black;
+}
