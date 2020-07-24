@@ -120,6 +120,10 @@ iframe {
   width: 30vh; 
 }
 
+.gif-two {
+  height: auto;
+  width: 30vh;
+
 .introduction {
   border: 10px solid black;
 }
