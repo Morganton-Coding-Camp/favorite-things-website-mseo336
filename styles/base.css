@@ -93,6 +93,7 @@ iframe {
   max-height: 30vh;
   width: auto;
   border-radius: 30%;
+  align: center;
 }
   
 .favorite-sports {
