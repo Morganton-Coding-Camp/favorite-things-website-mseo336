@@ -115,7 +115,8 @@ iframe {
 }
 
 .gif {
-  margin center: 30vh
+  height: 30vh;
+  align-content: center;
 }
 
 .introduction {
